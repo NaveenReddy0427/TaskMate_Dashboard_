@@ -1,5 +1,10 @@
 # React + Vite
 
+### npm install 
+### npm run dev
+
+Replicate the Taksmate Dashboard UI sucessfully, please check out 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
